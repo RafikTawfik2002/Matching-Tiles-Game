@@ -1,0 +1,36 @@
+body {
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#game {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table {
+    background-color: blueviolet;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 2%;
+}
+td{
+    width: 2em;
+    height: 2em;
+}
+img{
+
+    border: 2px solid blueviolet;
+    border-radius: 10%;
+}
+.close:hover{
+    border: 2px solid yellow;
+}
+
+.done{
+    opacity: 0.2;
+}
